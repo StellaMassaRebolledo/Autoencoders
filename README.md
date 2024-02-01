@@ -5,4 +5,3 @@ The unsupervised set will be used to build an autoencoder. Then, this autoencode
 ## Fashion MNIST dataset
 This dataset can be found here: https://keras.io/api/datasets/fashion_mnist/
 
-## Adding some more details about the project
